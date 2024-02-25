@@ -1,0 +1,45 @@
+Copy Everything make a .bat file, edit it and put the code from line 3 to line 42 into the .bat file and then run it as admin.
+
+@echo off
+color 9
+echo ======================================================================================
+echo RR date cleaner
+echo ======================================================================================
+echo This script cleans all of Rec Room's data from your computer.
+echo Run this without administrator cause file paths will mess up.
+echo Credit to https://github.com/sr2echa/Monotone-HWID-Spoofer for Monotone.
+echo ======================================================================================
+echo Deleting Rec Room Local Low
+rmdir /s /q "C:\Users\%USERNAME%\AppData\LocalLow\Against Gravity"
+echo Deleting Rec Room's Temp Files
+rmdir /s /q "%LocalAppData%\Temp\RecRoom
+rmdir /s /q "%LocalAppData%\Temp\Against Gravity"
+echo Deleting Rec Room's Microsoft Files
+del /s /q %AppData%\Microsoft\Windows\Recent\RecRoom.lnk
+del /s /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Steam\Rec Room.url"
+echo Completed File Deletion
+timeout /t 1 /nobreak > nul
+echo ======================================================================================
+echo Removing RRs Registry Keys
+%windir%\system32\reg.exe import noRR.reg
+echo Completed Registery Key Removal
+echo ======================================================================================
+echo Launching Monotone HWID Spoofer (https://github.com/sr2echa/Monotone-HWID-Spoofer)
+start /d "%cd%\Monotone" Monotone.exe
+echo ======================================================================================
+echo Completed Monotone Launch
+echo ======================================================================================
+echo Closing Script In 5 seconds.
+timeout /t 1 /nobreak > nul
+echo Closing Script In 4 seconds.
+timeout /t 1 /nobreak > nul
+echo Closing Script In 3 seconds.
+timeout /t 1 /nobreak > nul
+echo Closing Script In 2 seconds.
+timeout /t 1 /nobreak > nul
+echo Closing Script In 1 second.
+timeout /t 1 /nobreak > nul
+stop
+
+
+Creds; Neptune#1995 (bro got sued) lmao
