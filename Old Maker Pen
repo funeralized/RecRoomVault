@@ -1,0 +1,39 @@
+Maker Pen Steps:
+
+
+1. Launch Rec Room and attach Cheat Engine
+2. Run Clumsy as admin and copy the clumsy config (provided below)
+3. Go to your dorm (if not already in dorm)
+4. First Scan for your Player ID in Cheat Engine (4bytes)
+https://accounts.rec.net/account?username= (Your @ Here)
+5. Go to the Rec Center and Press Next Scan to "filter" the found addresses
+6. Go to another Room (not the same room your currently in) and press Next Scan
+7. Repeat steps 5 - 6 until your certain your Player Id addresses are filtered
+8. Go back to the Rec Center and click Next Scan
+9. Select one of the addresses in the Left Hand Side box and press Crtl+A to select all of the addresses
+10. Use the Red Arrow at the Bottom Left of the Left Hand Side Box to Transfer all your selected addresses to the Bottom Box
+11. Under the "Value" column in the Bottom Box select one address then press Crtl+A to select all of the addresses
+12. Under the "Value" column Double click one of the selected addresses and change it to "1999" (Gribbly's Player ID)
+(make sure you're changing all the addresses, follow step 11)
+13. Press "Start" on Clumsy
+14. Select all the addresses in the Bottom Box and Change them back to your original Player ID
+15. Works maybe?
+
+Credit; Ethan/Majin (He got it from Krane)
+
+Second Method
+
+step 1 = make sure cheat engine is set to 4 bytes
+step 2 = use this link to get your player id https://accounts.rec.net/account?username= after the = put your @ name
+step 3 = copy your id it is the numbers only then scan for your id in cheat engine
+step 4 = once the values show up go to a custom room make sure it is a player created room and not a RRO
+step 5 = some red values should pop up when you join click next scan to get rid of them
+step 6 = now join your dorm room when you do this you should have 1 or 0 red values before you load in click next scan
+step 7 = now on the left click on one of the values and hit ctrl+a to select them all then click the red arrow at the bottom to bring them down
+step 8 = now click on one of the values you moved down and hit ctrl+a to select them all now click into the dark blue highlighted value and type 1 but do not click ok or enter
+step 9 = go to a rec center private or public does not matter now when you load in wait 5 seconds or so and then click ok or enter to change your id to 1 if you crash you did it wrong
+step 10 = now it should take a minute or two to give you maker pen permissions however if you play on steam vr you should have infinite playspace mover so you can fling yourself across the map and not get kicked you should get maker pen in about 5 to 10 minutes
+step 11 = if you dont get maker pen restart your game and repeat the steps moderators can not kick/ban you when you do this not even co owners because it counts you as the room owner
+a little note the tutorial video uses the correct step it does not show me using maker pen because it takes 2 - 10 minutes for your id to update so it would not let me upload the file if it does not work for you create a new steam account and make sure you get the timing correct also if you have any questions please ask i will try to make a video of me using maker pen if i can however it may be in a public room if private rooms do not wo
+
+Credit; I have no clue xd :3
