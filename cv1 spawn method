@@ -1,0 +1,13 @@
+This method is so you can spawn in bosses with a cv1 spawner.
+First place the cv1 spawner and change it to the mouse bot.
+Next go to Cheat Engine and set your value type to String.
+After you do that Scan for [quest_scifi_tinygroundexplosiveenemy]
+When you Scan make sure Case sensitive is off and make sure you
+have UTF-16 on. It should take about 30 seconds to scan.
+After on the left click on one and press ctrl + A to select all
+Then Press the arrow button it should move all the values to the bottom.
+Then turn UTF-16 off and scan make sure Case sensitive is off
+The Scan should take about 10 seconds After on the left click on one
+and press ctrl + A to select all Then Press the arrow button it should 
+move all the values to the bottom. Then at the bottom change the value
+to [quest_goblin_bogmonster] And boom your done
