@@ -1,0 +1,48 @@
+local aTimer = nil
+local aTimerInterval = 1000
+local aTimerTicks = 0
+local aTimerTickMax = 0
+local function aTimer_tick(timer)
+   if aTimerTickMax > 0 and aTimerTicks >= aTimerTickMax then
+      timer.destroy()
+   end
+   aTimerTicks = aTimerTicks + 1
+   openProcess("RecRoom.exe")
+   if b == 0 or b == 255 then
+      openProcess("RecRoom.exe")
+   end
+
+end
+
+function AOBRep(search, change)
+local aob = AOBScan(search)
+if aob then
+  for i=0,aob.Count-1 do
+    autoAssemble(aob[i]..':\ndb '..change)
+  end
+  aob.Destroy()
+end
+end
+
+function test()
+searchV = '64 00 38 00 34 00 39 00 39 00 33 00 64 00 64 00 2D 00 34 00 65 00 31 00 35 00 2D 00 34 00 34 00 38 00 31 00 2D 00 39 00 34 00 35 00 30 00 2D 00 66 00 38 00 38 00 61 00 33 00 34 00 63 00 64 00 62 00 63 00 38 00 32'
+replaceV = '64 00 30 00 61 00 39 00 32 00 36 00 32 00 66 00 2D 00 35 00 35 00 30 00 34 00 2D 00 34 00 36 00 61 00 37 00 2D 00 62 00 62 00 31 00 30 00 2D 00 37 00 35 00 30 00 37 00 35 00 30 00 33 00 64 00 62 00 35 00 38 00 65'
+AOBRep(searchV,replaceV)
+end
+
+MyForm = createForm(true)
+MyForm.Width = 200
+MyForm.Height = 200
+
+shbf = createButton(MyForm)
+shbf.Left = 10
+shbf.Top = 35
+shbf.Width = 125
+shbf.Height = 40
+shbf.onClick = test
+shbf.Caption = 'Enable clothes'
+
+aTimer = createTimer(MainForm, false)
+aTimer.Interval = aTimerInterval
+aTimer.OnTimer = aTimer_tick
+aTimer.Enabled = true
