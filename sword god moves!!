@@ -1,0 +1,429 @@
+Open the PlaySpace.exe zip file and run "Run.exe" 
+Turn on Physics. 
+Make sure both of you're hands are motion campasted. 
+Turn off C-step.
+Turn off OVR Space Grab.
+Use the unrealsed Programs Space grip,said at the very start what program you use.
+Watch the world turn to air and you become god.
+-All Bradan
+
+Open the PlaySpace.exe zip file and run "Run.exe" 
+Turn on Physics 
+You're HMD must have Motion compaction on.
+Turn off C-step. 
+Turn off OVR Space grab.
+Use Space Grab.
+Your swords will circle you faster then the fastest C-Cannon you can get, if you get rid of tethersyou become god.
+-All delinquent
+
+Clumsy 0.4
+Inbound
+Lag-Off
+Drop-On Inbound On Outbound On Chance 90
+Throttle-On TimeFrame(MS) 90 Inbound On Outbound On Chance 90
+Duplicate-On Count 50 Inbound On Outbound On Chance 90
+Out of order Inbound On Outbound On Chance 90
+Tamper-On Redochecksum On Inbound On Outbound On Chance 90
+Server Crasher
+All-delinquent
+
+Clumsy 0.4 
+inbound
+LimitSpeed-Off
+Latency-On Inbound On Outbound Off Fixed(ms) 4800
+Drop-On Inbound On Outbound On (%) 100.0
+Throttle-On Drop Throttled 4100 Inbound On Outbound On (%) 100.0
+Duplicate-Off
+Out of order-Off
+Tamper-Off
+ALl- delinquent
+
+crack time(ps)[Temporal]
+Owner:Headless911
+Dev:Headless911
+Desc:
+{allow user to shorten time for time move/ make them easyer to do.
+{75% of your slashs are time slashs(can hit people from 2 meters away at least)
+{for other people you'll be teleporting around
+{can do simple time move without help page or other ways of lag
+{can randomly crash stuff
+How to do:go in to safe mode on ps/allow your ps to go into sm over some time
+
+Inf time stop/2nd reality
+owner:
+dev:
+desc:
+how to do:
+latency:inbound:on, outbound:off, 4800
+Drop:inbound:on, outbound:off,25
+Throttle: (ms):4100 %:100
+
+crack time(pc)[Temporal]
+Owner:Headless
+Dev:Headless
+Desc:
+{allows you to choose the amount of lag you have
+{allows you to seem like your teleporting for everyone else
+{allows most of your drag/slashes turn in to god slashes or time slashes
+{sucffs up time trap
+how to do: have a razean 3 cpu and change the resaltion on it high means mre lag put lower for less lag
+how to do: levea your pcvr on with a pillow in it then go have dinner(this has a off chance of doing crack overdose)
+clumsy4.0:
+latency:inbound=on outbound=off:125
+drop:inbound=on outbound=off:5
+throttle:inbound=on outbound=on:ms(1250) %50
+dup:inbound=off outbound=on:C(3.5) %35
+out of order:inbound=on outbound=on:30
+clumsy4.0:
+latency:inbound=on outbound=on:80
+drop:inbound=on outbound=off:12
+throttle:inbound=on outbound=on:ms(800) %45
+dup:inbound=off outbound=off:C(3.5) %25
+out of order:inbound=on outbound=off:25
+
+crack hit box
+Dev:Headless911
+Owner:Headless911
+Desc:the longer you hold the sword it's hit box will break more
+purgatory[Temporal
+Owner:idk
+Dev:idk
+Desc:
+{make it so every one it immortal and if anyone leaves and rejoins they can't move and half the map doesn't exist
+{it least to 25min-forever
+How to do:sit in help page for like 45-50secs if using cracktime then like 12-30secs
+
+5th Dimansion/5d
+Owner:arsenal
+Dev:arsenal
+Desc:
+{allow you to move gadgets and object without maker pen
+{allows you to walk through walls
+{allow you to look like your flying for others
+how to do:sit in the help page in your dorm for 10 mins then press rest moder then you can do stuff using the help page
+
+nerf or nothing[Temporal]
+Owner:Headless911
+Dev:Headless911
+Desc:
+{anyone who has died and is just respawned will get paint pistols and be died forever till they leave
+{least for 25mins-1hour
+how to do:do two sever crashs at the same time
+
+Time Scrifice[complex]
+Owner:Headless911(i think)
+Dev:Headless911(i think)
+Desc:
+{Scrifice tempus totum ut te faciant di immortales meum ego dominus in tempore
+{every gets immortality and you become dead forever
+{the immortality laest 25mins-1hour
+how to do:get killed when doing time immortality
+Crack Overdose
+Owner:Headless911,WiseSnail
+Dev:Headless911,WiseSnail
+Desc:
+<at the time you do it you’ll be taken into your a Guardian and it will be a picture of whatever you where doing when it happeaned
+<after an hour you’ll be stuck in your guardian which will have turned in to static
+<any time you move your hand too much it’ll do a god force
+How to do:die twice while your setting up crack time then crash
+
+True soul time
+Owner:Headless911(i think)
+Dev:Headless911(i think)
+Desc:
+{does soul time as normal with more stuff
+{makes your hitbox non existing
+{allows you to move between soul time and normal time
+How to do: do soul time with a time booster move
+
+Hit box magic[complex]
+Owner:Headless911
+Dev:Headless911
+Desc:
+{hit box go bye bye
+{moves your hit box around or make it bigger a smaller every few mins
+how to do:use a 5 year old ps4 and a sky roter or use lag to make your hit boxs move/ a side effect of crack time for long periods
+
+Time precognition[complex]
+Owner:Headless911
+Dev:Headless911
+Desc:
+{slowers down time and allows you to see every thing at half the speed
+{your frames drop to 12 most of the time your doing them
+{for everyone else you'll be moveing slow then teleport if you move too much
+How to do:use help page for 15-30ish secs then go back into the game then catch a lag spike and go in help page let it load then go back
+
+Time immortality[complex]
+Owner:idk
+Dev:idk
+Desc:
+{go immortal
+{can mess up and only work for melee or projectiles
+How to do:use help page 3 times for 15 secs or use 25 time stops or use a lag spike with crack time or something smiler
+
+time excalibur[complex]
+Owner:idk
+Dev:idk
+Desc:
+{allows you to use excalibur with time move
+how to do: just use time stop at the time you want your sword to become a ecalibur ya div
+dos move
+Owner:Headless911(i think)
+Dev:Headless911(i think)
+Desc:
+{allows you to crash a player just by hitting them
+{hard very hard and annoying to do
+how to do:use alot of lag and bout 4 help pages for 40ish secs to over load a weapon
+
+Time emp/bow emp[normal]
+Owner:Headless911(i think)
+Dev:Headless911(i think)
+Desc:
+{breaks all bows in a area around you
+{ laests for 10-50mins
+{as a 65% chance of happeaning
+how to do: use a time stop for 1sec or so
+
+Soul time/spectrer mode[normal]
+Owner:idk
+Dev:idk
+Desc:
+{allow you to walk maround the map without people seeing you but you can hear them and see them walking around
+{you can't kill with melee but you can with projectiels
+how to do: go in the help page for 30ish secs
+
+Time stop
+Owner:idk
+Dev:idk
+Desc: 
+{for you everyone freezes and you can walk around and do what you like for a small amount of time
+How to do:get lag to a limit
+Clumsy2.0: lag:3000
+how to do: use crack time on a laggy sever then hit objects to get more leg
+
+Time Step
+Owner:idk
+Dev:idk
+Desc:
+{allows the user to go between a timestoped world and a normal one for at most 50 secs
+How to do:
+clumsy2.0:lag 350, drop 50
+10d?
+Owner:Headless911
+Dev:Headless911
+
+{idk
+how to do maybe:use crack time 5d and purgorty
+crack time(ps)
+Owner:Headless911
+Dev:Headless911
+Desc:
+{allow user to shorten time for time move/ make them easyer to do.
+{75% of your slashs are time slashs(can hit people from 2 meters away at least)
+{for other people you'll be teleporting around
+{can do simple time move without help page or other ways of lag
+{can randomly crash stuff
+How to do:go in to safe mode on ps/allow your ps to go into sm over some time
+
+crack time(pc)
+Owner:Headless
+Dev:Headless
+Desc:
+{allows you to choose the amount of lag you have
+{allows you to seem like your teleporting for everyone else
+{allows most of your drag/slashes turn in to god slashes or time slashes
+{sucffs up time trap
+how to do: have a razean 3 cpu and change the resaltion on it high means mre lag put lower for less lag
+how to do: levea your pcvr on with a pillow in it then go have dinner(this has a off chance of doing crack overdose)
+clumsy4.0:
+latency:inbound=on outbound=off:125
+drop:inbound=on outbound=off:5
+throttle:inbound=on outbound=on:ms(1250) %50
+dup:inbound=off outbound=on:C(3.5) %35
+out of order:inbound=on outbound=on:30
+clumsy4.0:
+latency:inbound=on outbound=on:80
+drop:inbound=on outbound=off:12
+throttle:inbound=on outbound=on:ms(800) %45
+dup:inbound=off outbound=off:C(3.5) %25
+out of order:inbound=on outbound=off:25
+scuffed but better 2nd reality
+Owner:Headless911
+Dev:Headless911
+Desc: scuffed but better 2nd reality
+How to do:
+Speed:inbound=on outbound=on:25
+latency:inbound=on outbound=on:1000
+drop:inbound=on outbound=off:15
+throttle:inbound=on outbound=on:ms(3000) %55
+dup:inbound=on outbound=off:C(3.5) %25
+out of order:inbound=on outbound=on:25
+Tamper:Redo= off inbound=on outbound=off
+
+crack hit box
+Dev:Headless911
+Owner:Headless911
+Desc:the longer you hold the sword it's hit box will break more
+
+Crack Overdose
+Owner:Headless911,WiseSnail
+Dev:Headless911,WiseSnail
+Desc:
+<at the time you do it you’ll be taken into your a Guardian and it will be a picture of whatever you where doing when it happeaned
+<after an hour you’ll be stuck in your guardian which will have turned in to static
+<any time you move your hand too much it’ll do a god force
+How to do:die twice while your setting up crack time then crash
+Bordem therm
+Dev:Headless
+Owner:Headless
+therm:
+WorldFromDriver;X=-0.5 Y=A Z=-50.0
+DriverFromHead;X=-50.0 Y=500.0 Z=-B
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+If you want to make a good move simler to absolet contal for input change A and B to the size you want them to be
+
+PAIN KILLERS
+Dev:Headless911
+Owner:Headless911
+Desc:
+{can't die by swords
+{Invsis barriers don't effect you
+{You may go blind
+How to do:put all your offsets to max
+
+dad's beer bottle(patched sort of)
+Owner:headless,snail
+Dev:headless,snail
+Desc: fling hand far
+how to:be on rifts and hit hand hard
+all of crack time
+
+alpha
+{allows you do time moves a bit quicker
+{you lag more
+
+bata
+{start to randomly do time moves
+{can do more complex time moves just with help page
+{start to have a weird hitbox
+{start to gat random deley
+
+releseas
+{reality moves are as easy as time stop
+{your hitbox walks around ten meters away from you randomly
+{you just look like your c-stepping around and only some times walking
+{your help page improves most of the moves that come out of it
+{your sword some how killed a guy ten foot away from you
+{time starts going into phisycal 
+
+4 mounths after releseas
+{you can just make a new reality move on the spot
+{anytime you use your help page it goes between destroying the sever and doing dimasion and reality moves
+{allows you to basicly mod your already broken crack time
+{when you try to crash a sever it is broken for a day or two(and affects objects)
+{half the time your hit box is smoking a sigge in the corner
+{you start to like you just appear instead of walking
+{you get around most time based patches and some phisycal ones
+C-cannon
+Dev:Idk
+Owner:Idk
+Desc: moves your hand back and forward really fast
+How to do:auto click+desktop input emulastor
+
+Headless Scuffed c-rage
+Dev:headless sort of
+Owner:headless sort of
+Desc:it's just a scuffed c-rage
+How to do:
+WorldFromDriver;X=-0.0 Y=500.0 Z=-500.0 Yaw=40 pitch=-45 roll=30
+DriverFromHead;X=-50.0 Y=0.0 Z=-1200.0
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+
+scuffed admin killer/absolet boredem
+Dev:technecally Headless
+Owner:technecally Headless
+Desc: a b-tech absolet contral
+How to do:
+WorldFromDriver;X=-0.5 Y=5000.0 Z=-50.0
+DriverFromHead;X=-50.0 Y=500.0 Z=-5000.0
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+
+Rommber
+Dev:Headless
+Owner:Headless
+Desc: it's a rommber and it go brrrrrrrr
+How to do:
+WorldFromDriver;X=-0.5 Y=10000.0 Z=-50.0
+DriverFromHead;X=-50.0 Y=500.0 Z=-10000.0
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+Orphen Destroyer
+Dev:Headless
+Owner:Headless
+Desc: big boy big boy big boy
+How to do:
+WorldFromDriver;X=-0.5 Y=10500.0 Z=-50.0
+DriverFromHead;X=-50.0 Y=500.0 Z=-10500.0
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+
+Bordem therm
+Dev:Headless
+Owner:Headless
+therm:
+WorldFromDriver;X=-0.5 Y=A Z=-50.0
+DriverFromHead;X=-50.0 Y=500.0 Z=-B
+DriverOffsets;X=-5.0 Y=50.0 Z=-500.0
+If you want to make a good move simler to absolet contal for input change A and B to the size you want them to be
+
+True bordem therm
+Dev:Headless
+Owner:Headless
+therm:
+WorldFromDriver;X=-0.A Y=A000 Z=-A0.0
+DriverFromHead;X=-A0.0 Y=100.0 Z=-A000
+DriverOffsets;X=-A.0 Y=A0.0 Z=-A00.0
+just change the A to any thing you want just when you have it up to 10 go to the next diget 
+Desc: it allows you to make absolute bordems as large as orphen destroyer and as easy to contral as the og absolute bordem 
+
+155
+Owner:headless911
+Dev:Headless911
+Desc:155
+How to do:155
+Blitzkrieg
+Owner:Headless
+Dev:Headless
+Desc: a map wide masscure
+how to do:
+WorldFromDriver;X=-5.0 Y=50000 Z=-500.0
+DriverFromHead;X=-500.0 Y=5000.0 Z=-50000
+DriverOffsets;X=-50.0 Y=500.0 Z=-5000.0
+
+gumgum arm
+Dev:idk
+Owner:idk
+Desc:one pices refreance
+how to do:use walk in vr and get big arm and just move them up and down really fast
+
+PAIN KILLERS
+Dev:Headless911
+Owner:Headless911
+Desc:
+{can't die by swords
+{Invsis barriers don't effect you
+{You may go blind
+How to do:put all your offsets to max
+vortex reach: recalbrate then extend
+crack mods:these all only work with crack time
+
+extra lag
+how to: have a scroll through help page for as like as your not bored for don't matter if you crash you've still done it
+
+5d chess mode
+how to:time echo on joining a game with crack time and time echo again
+
+reality maker
+how to: do a purgatory then start to spam your help page
+
+new bullet
+desc:adds another time move or what every to the random pick of the help page
+how to: reality maker then extra lag
