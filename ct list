@@ -1,0 +1,28 @@
+Food=    [CheesePizzaConsumableTool]   [SupremePizzaConsumableTool] [RootBeerConsumableTool] [BubblyConsumable_Premium_Tool] [BubblyConsumableRecConTool] [Popcorn_Flaming_ConsumableTool] VRColaConsumableTool]
+------------------------------------------------------------------------------------------------------------------------
+BOSS=  [arena_jumbotron_mainframe] [quest_goblin_rotatingboss] [quest_pirate_bossenemy] [quest_goblin_bogmonster] [quest_goblin_witchboss] [quest_scifi_jumbotronbossenemy]
+--------------------------------------------------------------------------------------------------------------------------
+Weapons= [quest_scifi_railgun] [Arena_Pistol]  [Quest_SciFi_Shotgun]  [longbow] [quest_pirate1_flintlock] [arena_grenadelauncher] [paintballassaultrifle]
+[Arena_RocketLauncher] [paintballshotgun] [Quest_Goblin_Wand] [Whip] [PaintballGrenadeLauncher] [Arena_PowerWeapon_BeamGun] [Arena_RailGun] [Arena_Shotgun]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Sword= [questmeatsword] [questshield] [Quest_Dracula1_Rake] [QuestMeatSword] [QuestSword]
+----------------------------------------------------------------------
+RecRoyale= [glider] [recroyale_backpack] [recroyale_ammo_loottool] [recroyale_healthandshieldpotion]
+------------------------------------------------------------------------------------------------------------------
+Quest Stuff= And Boxs=  [quest_pirate1_coinstack_small]  [quest_witch_projectile] [quest_pirate1_torch] [quest_pirate1_hookhand]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enemies=  [quest_goblin_eliteflyingrangedenemy] [quest_pirate_cannoneerenemy] [quest_pirate1_plate] [quest_scifi_tinygroundexplosiveenemy] 
+------------------------------------------------------------------------------------------------------------------------------------------------
+SandBoxStuff= [makerpen] [sandbox_wall_window] [microphone] [rccarsandboxset] [holotarprojector] [flagtool] [eraser] [moveablewhiteboard] [sandbox_couch]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dev Stuff=  [greenscreen_tool] [arena_emp] [tutorialcamera] [tutorialcamera png]
+-------------------------------------------------------------------------------------------------
+Random.Stuff= [consumables_pizza_openbox] [paddleballball] [battleroyalemanager] [wrist_watch] [trigger_volume] 
+[sharecamera][Arena_Cyber_TrashBag_Sandbox} [SandboxBowlingPin]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Boxs= [giftbox] [lootchest_scifi] [lootchest]
+-----------------------------------------------------------------------------------------------
+Walls And Floors= [sandbox_wall] [sandbox_wall_window] [sandbox_stool]
+-----------------------------------------------------------------------	
+Player stuff= 
+-----------------------------------------------
