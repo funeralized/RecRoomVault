@@ -1,0 +1,8 @@
+Pirates/fantas Inf ink 
+
+Put your scan type to 8 bytes make sure Hex is off and delete everything in ur dorm
+Scan for 3 
+Spawn an AC Unit 
+Next scan for 98
+Bring the value down that address ends with B88
+Change the Value to -99999 and freeze it
