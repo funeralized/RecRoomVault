@@ -1,0 +1,23 @@
+Prerequisites:
+
+Make sure you're using a physical machine that you have admin/root access on (it will not work for most VPS & cloud hosting solutions) (obviously)
+Disable Secure Boot in BIOS
+Turn on TPM enforcement (if on Win11 dev build)
+Turn off real-time protection and turn off all antiviruses before extracting.
+
+Instructions:
+
+1 Turn off (or uninstall) any anti-viruses
+2 Turn off Windows Defender's Real Time Protection
+3 Extract the wind64_Bypass.zip
+4 Run wind64.exe as admin and enter y for both prompts
+5 Run cheat engine-x86_64.exe from the Cheat Engine 7.4 Folder
+6 Run wind64.exe as admin (again) and enter y for the prompt
+7 Open Rec Room
+8 Turn on the Read/Write Process Memory option in the cheat engine's Extras settings
+9 Select Rec Room.exe as a process in cheat engine, and now you can use cheat engine as normal
+
+https://cdn.discordapp.com/attachments/1040712705478230137/1061110326415863828/wind64_Bypass.zip
+
+Credit; neptuneq 
+some skid uploaded it https://github.com/GunsWasTakenVR
